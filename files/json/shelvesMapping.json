@@ -1,0 +1,17 @@
+{
+"shelves":[ 
+{"shelfmodel":"ShelfSystemH160T6L10G","shelfID":1,"position_x":4.889639,"position_y":3.06039,"position_z":0.8,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":-1,"movability":2},
+{"shelfmodel":"ShelfLayer5TilesL10_Bottom","shelfID":1,"position_x":4.889639,"position_y":3.394502,"position_z":0.133192,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":1,"position_x":4.889639,"position_y":3.319924,"position_z":0.355,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":1,"position_x":4.889639,"position_y":3.319899,"position_z":0.607,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":1,"position_x":4.889639,"position_y":3.319871,"position_z":0.859,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":1,"position_x":4.889639,"position_y":3.319847,"position_z":1.153,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":1,"position_x":4.889639,"position_y":3.319825,"position_z":1.405,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfSystemH160T6L10G","shelfID":2,"position_x":3.88164,"position_y":3.06039,"position_z":0.8,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":-1,"movability":2},
+{"shelfmodel":"ShelfLayer5TilesL10_Bottom","shelfID":2,"position_x":3.88164,"position_y":3.394502,"position_z":0.133192,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":2,"position_x":3.88164,"position_y":3.319924,"position_z":0.397,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":2,"position_x":3.88164,"position_y":3.319899,"position_z":0.649,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":2,"position_x":3.88164,"position_y":3.319871,"position_z":0.901,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":2,"position_x":3.88164,"position_y":3.319847,"position_z":1.153,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2},
+{"shelfmodel":"ShelfLayer4TilesL10","shelfID":2,"position_x":3.88164,"position_y":3.319825,"position_z":1.405,"rotation_w":0,"rotation_x":0,"rotation_y":0,"rotation_z":1,"movability":2}]
+}

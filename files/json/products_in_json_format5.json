@@ -1,0 +1,1942 @@
+
+{
+"products":[ 	
+		      	
+{
+		
+			"gtin":"4010355212269",
+				  
+					"length":"24",
+					"depth":"38",
+					"height":"100"
+		,"name":"100001944" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009101",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"3.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             30.000",
+			"PRABE":"             20.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355299963",
+				  
+					"length":"25",
+					"depth":"39",
+					"height":"101"
+		,"name":"100001945" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009102",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"4.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             40.000",
+			"PRABE":"             25.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355472823",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009103",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"6.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             60.000",
+			"PRABE":"             23.000"
+		}
+		,      	
+{
+		
+			"gtin":"50270279",
+				  
+					"length":"34",
+					"depth":"34",
+					"height":"109"
+		,"name":"100001947" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009202",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             20.000",
+			"PRABE":"              5.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355558008",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009206",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             30.000",
+			"PRABE":"             28.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355384560",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009207",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"42349365",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009208",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             20.000",
+			"PRABE":"              3.000"
+		}
+		,      	
+{
+		
+			"gtin":"50099962",
+				  
+					"length":"35",
+					"depth":"35",
+					"height":"92"
+		,"name":"100001951" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009209",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              4.000"
+		}
+		,      	
+{
+		
+			"gtin":"3607343722940",
+				  
+					"length":"35",
+					"depth":"70",
+					"height":"111"
+		,"name":"100001952" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009210",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              3.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355318664",
+				  
+					"length":"25",
+					"depth":"39",
+					"height":"102"
+		,"name":"100001953" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009213",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             30.000",
+			"PRABE":"             24.000"
+		}
+		,      	
+{
+		
+			"gtin":"4058172024184",
+				  
+					"length":"31",
+					"depth":"44",
+					"height":"123"
+		,"name":"100001954" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009301",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             36.000",
+			"PRABE":"             31.000"
+		}
+		,      	
+{
+		
+			"gtin":"4007965016097",
+				  
+					"length":"30",
+					"depth":"103",
+					"height":"35"
+		,"name":"100001955" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009303",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              4.000"
+		}
+		,      	
+{
+		
+			"gtin":"8714789994055",
+				  
+					"length":"28",
+					"depth":"102",
+					"height":"36"
+		,"name":"100001956" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009304",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8718951226890",
+				  
+					"length":"28",
+					"depth":"106",
+					"height":"36"
+		,"name":"100001957" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009305",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4058172062896",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009307",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             20.000",
+			"PRABE":"              5.000"
+		}
+		,      	
+{
+		
+			"gtin":"4058172062995",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009308",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             20.000",
+			"PRABE":"              3.000"
+		}
+		,      	
+{
+		
+			"gtin":"4026600113304",
+				  
+					"length":"22",
+					"depth":"110",
+					"height":"34"
+		,"name":"100001960" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009309",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              3.000"
+		}
+		,      	
+{
+		
+			"gtin":"4011448001005",
+				  
+					"length":"67",
+					"depth":"67",
+					"height":"15"
+		,"name":"100001961" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009401",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              3.000"
+		}
+		,      	
+{
+		
+			"gtin":"3574661199634",
+				  
+					"length":"61",
+					"depth":"61",
+					"height":"12"
+		,"name":"100001962" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009402",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             20.000",
+			"PRABE":"              4.000"
+		}
+		,      	
+{
+		
+			"gtin":"40052090",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009403",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              5.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355001382",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009404",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             30.000",
+			"PRABE":"             25.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355221261",
+				  
+					"length":"32",
+					"depth":"32",
+					"height":"117"
+		,"name":"100001965" 
+		,"LAYGR":"YLB007",
+		"SORF1":"0000009405",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"2.000",
+		"LMVER":"0000" 
+			,"FRONT":"              7.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             20.000",
+			"PRABE":"             12.000"
+		}
+		,      	
+{
+		
+			"gtin":"42349112",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011103",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"50076598",
+				  
+					"length":"30",
+					"depth":"55",
+					"height":"115"
+		,"name":"100001982" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011105",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"8717644566237",
+				  
+					"length":"43",
+					"depth":"66",
+					"height":"112"
+		,"name":"100001983" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011109",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355247032",
+				  
+					"length":"35",
+					"depth":"35",
+					"height":"120"
+		,"name":"100001984" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011202",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"             15.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355196866",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011204",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              9.000"
+		}
+		,      	
+{
+		
+			"gtin":"3600540897794",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011205",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"3574661259895",
+				  
+					"length":"49",
+					"depth":"58",
+					"height":"104"
+		,"name":"100001987" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011206",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355482617",
+				  
+					"length":"33",
+					"depth":"46",
+					"height":"117"
+		,"name":"100001988" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011207",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"             12.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355482594",
+				  
+					"length":"33",
+					"depth":"46",
+					"height":"117"
+		,"name":"100001989" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011208",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"             12.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355596086",
+				  
+					"length":"33",
+					"depth":"46",
+					"height":"117"
+		,"name":"100001990" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011301",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"             12.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355596062",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011303",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"             12.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355214423",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011304",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"             12.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355384522",
+				  
+					"length":"38",
+					"depth":"38",
+					"height":"156"
+		,"name":"100001993" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011305",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"             12.000"
+		}
+		,      	
+{
+		
+			"gtin":"4005900471796",
+				  
+					"length":"40",
+					"depth":"44",
+					"height":"152"
+		,"name":"100001994" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011306",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"4045612005544",
+				  
+					"length":"38",
+					"depth":"38",
+					"height":"155"
+		,"name":"100001995" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011307",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"4045612005483",
+				  
+					"length":"38",
+					"depth":"38",
+					"height":"155"
+		,"name":"100001996" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011308",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"5014697017109",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011309",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710447469132",
+				  
+					"length":"45",
+					"depth":"45",
+					"height":"170"
+		,"name":"100001998" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011401",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710447211267",
+				  
+					"length":"45",
+					"depth":"45",
+					"height":"170"
+		,"name":"100001999" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011402",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"3614224040116",
+				  
+					"length":"45",
+					"depth":"45",
+					"height":"176"
+		,"name":"100002000" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011403",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"3607349684495",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011404",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355141651",
+				  
+					"length":"73",
+					"depth":"80",
+					"height":"110"
+		,"name":"100002002" 
+		,"LAYGR":"YLB006",
+		"SORF1":"0000011405",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"7317400002217",
+				  
+					"length":"5",
+					"depth":"81",
+					"height":"150"
+		,"name":"100002204" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016101",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"7317400002231",
+				  
+					"length":"5",
+					"depth":"81",
+					"height":"150"
+		,"name":"100002205" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016102",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"7317400002248",
+				  
+					"length":"5",
+					"depth":"81",
+					"height":"150"
+		,"name":"100002206" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016103",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"7317400002255",
+				  
+					"length":"5",
+					"depth":"81",
+					"height":"150"
+		,"name":"100002207" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016104",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"7317400002262",
+				  
+					"length":"5",
+					"depth":"81",
+					"height":"150"
+		,"name":"100002208" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016105",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"7317400017303",
+				  
+					"length":"15",
+					"depth":"80",
+					"height":"164"
+		,"name":"100002209" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016106",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355349484",
+				  
+					"length":"11",
+					"depth":"75",
+					"height":"165"
+		,"name":"100002210" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016107",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355147295",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016108",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355119971",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016109",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355200112",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016110",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355132987",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016111",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355132994",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016112",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355294159",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016201",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4101160130302",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016202",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"5054563019882",
+				  
+					"length":"22",
+					"depth":"42",
+					"height":"232"
+		,"name":"100002218" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016203",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"5054563020130",
+				  
+					"length":"16",
+					"depth":"43",
+					"height":"232"
+		,"name":"100002219" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016204",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"5054563019820",
+				  
+					"length":"22",
+					"depth":"42",
+					"height":"232"
+		,"name":"100002220" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016205",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4007965114106",
+				  
+					"length":"17",
+					"depth":"42",
+					"height":"225"
+		,"name":"100002221" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016206",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4007965112102",
+				  
+					"length":"19",
+					"depth":"42",
+					"height":"225"
+		,"name":"100002222" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016207",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8718951094864",
+				  
+					"length":"20",
+					"depth":"42",
+					"height":"225"
+		,"name":"100002223" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016208",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4007965012549",
+				  
+					"length":"20",
+					"depth":"50",
+					"height":"225"
+		,"name":"100002224" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016209",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4007965012570",
+				  
+					"length":"13",
+					"depth":"42",
+					"height":"225"
+		,"name":"100002225" 
+		,"LAYGR":"YLB008",
+		"SORF1":"0000016210",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              6.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"             10.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8712561856447",
+				  
+					"length":"39",
+					"depth":"78",
+					"height":"187"
+		,"name":"100002270" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017101",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8712561855563",
+				  
+					"length":"39",
+					"depth":"78",
+					"height":"187"
+		,"name":"100002271" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017102",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"40133218",
+				  
+					"length":"70",
+					"depth":"92",
+					"height":"92"
+		,"name":"100002272" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017103",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710908489150",
+				  
+					"length":"40",
+					"depth":"78",
+					"height":"184"
+		,"name":"100002273" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017104",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8712561856300",
+				  
+					"length":"39",
+					"depth":"78",
+					"height":"187"
+		,"name":"100002274" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017105",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710908489532",
+				  
+					"length":"40",
+					"depth":"78",
+					"height":"184"
+		,"name":"100002275" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017106",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"40133249",
+				  
+					"length":"70",
+					"depth":"92",
+					"height":"92"
+		,"name":"100002276" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017107",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710908769153",
+				  
+					"length":"49",
+					"depth":"68",
+					"height":"210"
+		,"name":"100002277" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017108",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710908768507",
+				  
+					"length":"49",
+					"depth":"68",
+					"height":"210"
+		,"name":"100002278" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017109",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              1.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710908769221",
+				  
+					"length":"49",
+					"depth":"68",
+					"height":"210"
+		,"name":"100002279" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017110",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"8710908768910",
+				  
+					"length":"49",
+					"depth":"68",
+					"height":"210"
+		,"name":"100002280" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017111",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355059666",
+				  
+					"length":"0",
+					"depth":"0",
+					"height":"0"
+		,"name":"#NV" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017201",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355059642",
+				  
+					"length":"47",
+					"depth":"75",
+					"height":"180"
+		,"name":"100002282" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017202",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355340955",
+				  
+					"length":"47",
+					"depth":"47",
+					"height":"183"
+		,"name":"100002283" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017203",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355319548",
+				  
+					"length":"50",
+					"depth":"77",
+					"height":"172"
+		,"name":"100002284" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017204",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355343345",
+				  
+					"length":"25",
+					"depth":"80",
+					"height":"150"
+		,"name":"100002285" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017205",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              3.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355346490",
+				  
+					"length":"67",
+					"depth":"67",
+					"height":"14"
+		,"name":"100002286" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017206",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4010355346513",
+				  
+					"length":"67",
+					"depth":"67",
+					"height":"14"
+		,"name":"100002287" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017207",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4260484410016",
+				  
+					"length":"50",
+					"depth":"50",
+					"height":"156"
+		,"name":"100002288" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017208",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4260484410092",
+				  
+					"length":"50",
+					"depth":"50",
+					"height":"156"
+		,"name":"100002289" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017209",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4260484410054",
+				  
+					"length":"50",
+					"depth":"50",
+					"height":"156"
+		,"name":"100002290" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017210",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+		,      	
+{
+		
+			"gtin":"4260484410030",
+				  
+					"length":"50",
+					"depth":"50",
+					"height":"156"
+		,"name":"100002291" 
+		,"LAYGR":"YLB009",
+		"SORF1":"0000017211",
+		"LAYVR":"YLB1LAYOUT",
+		"MELAY":"PCE",
+		"SHELF":"0000000001",
+		"FACIN":"1.000",
+		"LMVER":"0000" 
+			,"FRONT":"              5.000",
+			"VERAB":"20200324",
+			"VERBI":"99991231",
+			"MAXB":"              8.000",
+			"PRABE":"              2.000"
+		}
+			
+]
+}
