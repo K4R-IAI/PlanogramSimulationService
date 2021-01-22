@@ -48,8 +48,12 @@ app.post("/setshelf",function(req,res,next)
             console.log('stdout: ' + stdout);
         }
     })
-    res.send("jar java executed !")
 
+	
+	let file = fs.readFileSync('./files/json/products.json'),    
+        let jsonfile = JSON.parse(file);
+        res.send(jsonfile)
+ 
 })
 
 var createfile = function()
