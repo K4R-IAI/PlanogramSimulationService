@@ -15,7 +15,7 @@ app.get('/runJava', (req, res) =>
     {
         if(error !== null) 
         {
-            console.log('exec error: ' + error)
+            console.log('exec error: ' + error);
         } 
         else 
         {
@@ -26,14 +26,27 @@ app.get('/runJava', (req, res) =>
     res.send("jar java executed !")
 });
 
-app.post("/setshelf",function(req,res,next)
+app.post("/setshelves",function(req,res,next)
 {
-   const file = req.files.shelvesMapping;
-   file.mv("./files/json/"+file.name,function(err,result)
-	{if(err) throw err;	
-	
-   })
+    writefile(req,res);
+    runjar(req,res);
+})
 
+app.get("/getproducts",function(req,res,next)
+{
+   sendfile(req,res);
+})
+
+
+var writefile = function(req,res)
+{
+
+   const file = req.files.shelvesMapping;
+   file.mv("./files/json/"+file.name,function(err,result){if(err) throw err;})
+}
+
+var runjar= function(req,res)
+{
     let jarFile     = './simulator.jar'
     let runCommand  = '/usr/bin/java -jar ' + jarFile 
     var exec = require('child_process').exec
@@ -41,24 +54,21 @@ app.post("/setshelf",function(req,res,next)
     {
         if(error !== null) 
         {
-            console.log('exec error: ' + error)
+            console.log('exec error: ' + error);
         } 
         else 
         {
             console.log('stdout: ' + stdout);
         }
     })
+    res.send("Shelves configured in the Simulator, so, product simulation can be requested !")
+}
 
-	
-	let file = fs.readFileSync('./files/json/products.json'),    
-        let jsonfile = JSON.parse(file);
-        res.send(jsonfile)
- 
-})
-
-var createfile = function()
+var sendfile= function(req,res)
 {
-fs.writeFileSync('./files/write.txt',"adding piped Data");
+    let filee = fs.readFileSync('./files/json/products.json');   
+    let jsonfile = JSON.parse(filee);
+    res.send(jsonfile)
 }
 
 
