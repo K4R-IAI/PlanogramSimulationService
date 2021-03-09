@@ -2,7 +2,7 @@ const express = require('express')
 const fs =  require('fs');
 const app = express();
 var fileupload = require('express-fileupload') ;
-const port = 3000;
+const port = 3567;
 const host = '0.0.0.0';
 app.use(fileupload());
 
