@@ -1,3 +1,3 @@
 docker build -f Dockerfile -t nodecontainer .
-docker run -p 3000:3000 nodecontainer .
+docker run -p 3567:3567 nodecontainer .
 
