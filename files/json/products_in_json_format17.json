@@ -1,0 +1,1645 @@
+
+
+{
+	"products":[ 
+		   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"39.000",
+				"Width":"78.000",
+				"Height":"187.000",
+				"Unit":"MMT",
+				
+				"Weight":"231.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4260605944970"
+					,
+					"8712561856447"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017101",
+			"Facings":"1.000",
+			"Name":"Dove Body Derma Spa BL Sum. dunkel 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"39.000",
+				"Width":"78.000",
+				"Height":"187.000",
+				"Unit":"MMT",
+				
+				"Weight":"233.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8712561855563"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017102",
+			"Facings":"1.000",
+			"Name":"Dove Body Derma Spa Lotion Intensiv200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"70.000",
+				"Width":"92.000",
+				"Height":"92.000",
+				"Unit":"MMT",
+				
+				"Weight":"356.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"40133218"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017103",
+			"Facings":"1.000",
+			"Name":"Dove Body Derma Spa Creme int.verw.300ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"40.000",
+				"Width":"78.000",
+				"Height":"184.000",
+				"Unit":"MMT",
+				
+				"Weight":"235.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908489150"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017104",
+			"Facings":"1.000",
+			"Name":"Dove DermaSpa Lotionp.Leichtigkeit 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"39.000",
+				"Width":"78.000",
+				"Height":"187.000",
+				"Unit":"MMT",
+				
+				"Weight":"230.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8712561856300"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017105",
+			"Facings":"1.000",
+			"Name":"Dove Body Derma Spa Lotion straff. 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"40.000",
+				"Width":"78.000",
+				"Height":"184.000",
+				"Unit":"MMT",
+				
+				"Weight":"222.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908489532"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017106",
+			"Facings":"1.000",
+			"Name":"Dove DermaSpa Lotion Kaschmir200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"70.000",
+				"Width":"92.000",
+				"Height":"92.000",
+				"Unit":"MMT",
+				
+				"Weight":"338.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"40133249"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017107",
+			"Facings":"1.000",
+			"Name":"Dove DermaSpa Creme Kaschmir 300ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"49.000",
+				"Width":"68.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"448.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908769153"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017108",
+			"Facings":"1.000",
+			"Name":"Dove Bodylotion Hydro 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"49.000",
+				"Width":"68.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"444.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908768507"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017109",
+			"Facings":"1.000",
+			"Name":"Dove Bodymilk Reichhaltig 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"49.000",
+				"Width":"68.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"462.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908769221"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017110",
+			"Facings":"1.000",
+			"Name":"Dove Bodylotion Pist.+Magnolie 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"49.000",
+				"Width":"68.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"465.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4905524836066"
+					,
+					"8710908768910"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017111",
+			"Facings":"1.000",
+			"Name":"Dove Bodylotion Shea Butter 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"0.000",
+				"Width":"0.000",
+				"Height":"0.000",
+				"Unit":"",
+				
+				"Weight":"0.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"10",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PK",
+				"GTIN":[
+				
+					"2050000001260"
+					
+				]
+			}
+			, 
+			{
+						
+				"Length":"47.000",
+				"Width":"47.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"210.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"2050000001277"
+					,
+					"4010355059666"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017201",
+			"Facings":"1.000",
+			"Name":"Balea Bodyspray Golden Shine"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"47.000",
+				"Width":"75.000",
+				"Height":"180.000",
+				"Unit":"MMT",
+				
+				"Weight":"221.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355059642"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017202",
+			"Facings":"1.000",
+			"Name":"Balea Bodylotion Golden Shine 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"47.000",
+				"Width":"47.000",
+				"Height":"183.000",
+				"Unit":"MMT",
+				
+				"Weight":"227.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355340955"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017203",
+			"Facings":"1.000",
+			"Name":"Balea Bodyspray Bahamas Dream 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"77.000",
+				"Height":"172.000",
+				"Unit":"MMT",
+				
+				"Weight":"223.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319548"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017204",
+			"Facings":"1.000",
+			"Name":"Balea Körperlotion Bahamas Dream 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"25.000",
+				"Width":"80.000",
+				"Height":"150.000",
+				"Unit":"MMT",
+				
+				"Weight":"106.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355343345"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017205",
+			"Facings":"1.000",
+			"Name":"Balea Körperlotion Sommerwonne 100ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"67.000",
+				"Width":"67.000",
+				"Height":"14.000",
+				"Unit":"MMT",
+				
+				"Weight":"37.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355346490"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017206",
+			"Facings":"1.000",
+			"Name":"Balea Pflegecreme Kirsche and Kokos 30ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"67.000",
+				"Width":"67.000",
+				"Height":"14.000",
+				"Unit":"MMT",
+				
+				"Weight":"37.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355346513"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017207",
+			"Facings":"1.000",
+			"Name":"Balea Pflegecreme Vanille and Marshm.30ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"156.000",
+				"Unit":"MMT",
+				
+				"Weight":"186.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4260484410016"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017208",
+			"Facings":"1.000",
+			"Name":"bilou Cremeschaum Lotion T.Donut 150ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"156.000",
+				"Unit":"MMT",
+				
+				"Weight":"186.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4260484410092"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017209",
+			"Facings":"1.000",
+			"Name":"bilou Cremeschaum Slushy Apple 150ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"156.000",
+				"Unit":"MMT",
+				
+				"Weight":"186.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4260484410054"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017210",
+			"Facings":"1.000",
+			"Name":"bilou Cremeschaum Cotton Candy 150ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"156.000",
+				"Unit":"MMT",
+				
+				"Weight":"186.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4260484410030"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017211",
+			"Facings":"1.000",
+			"Name":"bilou Cremeschaum Lotion F.Berry 150ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"49.000",
+				"Width":"67.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"463.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908776519"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017212",
+			"Facings":"1.000",
+			"Name":"Dove PflegegeheimnisLot. Avocadoöl 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"49.000",
+				"Width":"68.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"463.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908778148"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017213",
+			"Facings":"1.000",
+			"Name":"Dove PflegegeheimnisLot.Kokos+Mand.400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"49.000",
+				"Width":"68.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"463.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"8710908769085"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017214",
+			"Facings":"1.000",
+			"Name":"Dove Bodylotion intensivePflege400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"34.000",
+				"Width":"68.000",
+				"Height":"180.000",
+				"Unit":"MMT",
+				
+				"Weight":"285.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355323156"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017301",
+			"Facings":"1.000",
+			"Name":"Balea Men sensitive Bodylotion 250ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"78.000",
+				"Height":"186.000",
+				"Unit":"MMT",
+				
+				"Weight":"220.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"3600523349692"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017302",
+			"Facings":"1.000",
+			"Name":"Men Expert Tattoo Bodylot.200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"200.000",
+				"Unit":"MMT",
+				
+				"Weight":"250.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355320568"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017303",
+			"Facings":"1.000",
+			"Name":"Balea Tattoo Pflegesalbe"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"77.000",
+				"Height":"173.000",
+				"Unit":"MMT",
+				
+				"Weight":"223.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355320582"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017304",
+			"Facings":"1.000",
+			"Name":"Balea Tattoo-Pflegelotion 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"47.000",
+				"Width":"47.000",
+				"Height":"147.000",
+				"Unit":"MMT",
+				
+				"Weight":"149.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319180"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017305",
+			"Facings":"1.000",
+			"Name":"Balea BodyFIT Straff.-Serum 100ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"77.000",
+				"Height":"173.000",
+				"Unit":"MMT",
+				
+				"Weight":"173.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319203"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017306",
+			"Facings":"1.000",
+			"Name":"Balea BodyFIT Cellulite Gel 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"85.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"443.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319227"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017307",
+			"Facings":"1.000",
+			"Name":"Balea BodyFIT Bodytonic 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"25.000",
+				"Width":"120.000",
+				"Height":"200.000",
+				"Unit":"MMT",
+				
+				"Weight":"144.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355339324"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017308",
+			"Facings":"1.000",
+			"Name":"Balea BodyFIT Algenwickel 2x50ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"31.000",
+				"Width":"55.000",
+				"Height":"181.000",
+				"Unit":"MMT",
+				
+				"Weight":"223.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355135339"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017309",
+			"Facings":"1.000",
+			"Name":"Balea pflegendes Body-Serum 200 ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"36.000",
+				"Width":"57.000",
+				"Height":"19.000",
+				"Unit":"MMT",
+				
+				"Weight":"221.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355059741"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017310",
+			"Facings":"1.000",
+			"Name":"Balea Body Soft-Öl-Balsam 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"40.000",
+				"Width":"60.000",
+				"Height":"155.000",
+				"Unit":"MMT",
+				
+				"Weight":"162.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319425"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017311",
+			"Facings":"1.000",
+			"Name":"Balea Body Beauty-Öl 150ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"66.000",
+				"Width":"66.000",
+				"Height":"161.000",
+				"Unit":"MMT",
+				
+				"Weight":"388.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355246448"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017401",
+			"Facings":"1.000",
+			"Name":"Balea Bodylotion Kakao 350ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"66.000",
+				"Width":"66.000",
+				"Height":"161.000",
+				"Unit":"MMT",
+				
+				"Weight":"388.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355246462"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017402",
+			"Facings":"1.000",
+			"Name":"Balea Bodylotion Brauner Zucker 350ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"175.000",
+				"Unit":"MMT",
+				
+				"Weight":"194.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355323057"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017403",
+			"Facings":"1.000",
+			"Name":"Balea Spray-On Mang.Hib. Bodyl. 150ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"187.000",
+				"Unit":"MMT",
+				
+				"Weight":"230.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355323071"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017404",
+			"Facings":"1.000",
+			"Name":"Balea Bodyschaum Vanilla Berry 200ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"50.000",
+				"Width":"50.000",
+				"Height":"187.000",
+				"Unit":"MMT",
+				
+				"Weight":"187.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355298102"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017405",
+			"Facings":"1.000",
+			"Name":"Balea Wasserspray AQUA 150ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"85.000",
+				"Height":"193.000",
+				"Unit":"MMT",
+				
+				"Weight":"450.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355341136"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017406",
+			"Facings":"1.000",
+			"Name":"Balea Dusch Soft-Öl-Balsam 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"85.000",
+				"Height":"193.000",
+				"Unit":"MMT",
+				
+				"Weight":"442.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355206824"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017407",
+			"Facings":"1.000",
+			"Name":"Balea Dusch-BodymilkVanille and Cocos 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"85.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"443.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319364"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017408",
+			"Facings":"1.000",
+			"Name":"Balea Vital Bodylotion 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"86.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"438.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355346438"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017409",
+			"Facings":"1.000",
+			"Name":"Balea Bodylotion Magic Summer 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"70.000",
+				"Width":"95.000",
+				"Height":"226.000",
+				"Unit":"MMT",
+				
+				"Weight":"613.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355341792"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017501",
+			"Facings":"1.000",
+			"Name":"Balea leichte Bodylotion 500ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"70.000",
+				"Width":"95.000",
+				"Height":"226.000",
+				"Unit":"MMT",
+				
+				"Weight":"549.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355341815"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017502",
+			"Facings":"1.000",
+			"Name":"Balea reichhaltige Bodymilk 500ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"48.000",
+				"Width":"85.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"436.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319340"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017503",
+			"Facings":"1.000",
+			"Name":"Balea Körperlotion Butterm. and Lemon 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"85.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"436.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319401"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017504",
+			"Facings":"1.000",
+			"Name":"Balea Bodylotion Cocos and Sheanuss 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"86.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"442.000",
+				"WeightUnit":"KGM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355346414"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017505",
+			"Facings":"1.000",
+			"Name":"Balea Bodylotion Glückshauch 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"47.000",
+				"Width":"47.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"443.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355319142"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017506",
+			"Facings":"1.000",
+			"Name":"Balea Bodybalsam Sensitive 400ml"
+		}
+		,   
+		{
+			
+			"Dimensions": 
+			[
+			 
+			{
+						
+				"Length":"45.000",
+				"Width":"85.000",
+				"Height":"210.000",
+				"Unit":"MMT",
+				
+				"Weight":"452.000",
+				"WeightUnit":"GRM",
+				"ConversionDenominatorForBaseUnit":"1",
+				"ConversionCounterForBaseUnit":"1",
+				"LogisticalUnit":"PCE",
+				"GTIN":[
+				
+					"4010355410016"
+					
+				]
+			}
+				
+			],
+			
+			"SORF1":"0000017507",
+			"Facings":"1.000",
+			"Name":"Balea Bodylotion Urea 400ml"
+		}
+			
+	]
+}
+

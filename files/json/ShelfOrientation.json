@@ -1,0 +1,117 @@
+{
+  "ShelfOrientations" : [ {
+    "ShelfID" : "1",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  }, 
+  {
+    "ShelfID" : "2",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "3",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "7",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "8",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "9",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "10",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "11",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "12",
+    "orientation" : "1",
+    "Description" : "Front wall with 1,2,3, 7,8,9,10,11,12",
+    "Side" : "1"
+  },
+    {
+    "ShelfID" : "4",
+    "orientation" : "12",
+    "Description" : "right side wall with 4,5,6",
+    "Side" : "2"
+  },
+   {
+    "ShelfID" : "5",
+    "orientation" : "12",
+    "Description" : "right side wall with 4,5,6",
+    "Side" : "2"
+  },
+   {
+    "ShelfID" : "6",
+    "orientation" : "12",
+    "Description" : "right side wall with 4,5,6",
+    "Side" : "2"
+  },
+    {
+    "ShelfID" : "13",
+    "orientation" : "21",
+    "Description" : "right side wall with 13,14,15",
+    "Side" : "3"
+  },
+    {
+    "ShelfID" : "14",
+    "orientation" : "21",
+    "Description" : "right side wall with 13,14,15",
+    "Side" : "3"
+  },
+    {
+    "ShelfID" : "15",
+    "orientation" : "21",
+    "Description" : "right side wall with 13,14,15",
+    "Side" : "3"
+  },
+     {
+    "ShelfID" : "16",
+    "orientation" : "10",
+    "Description" : "right side wall with 16,17,18,19",
+    "Side" : "4"
+  },
+   {
+    "ShelfID" : "17",
+    "orientation" : "10",
+    "Description" : "right side wall with 16,17,18,19",
+    "Side" : "4"
+  },
+   {
+    "ShelfID" : "18",
+    "orientation" : "10",
+    "Description" : "right side wall with 16,17,18,19",
+    "Side" : "4"
+  },
+   {
+    "ShelfID" : "19",
+    "orientation" : "10",
+    "Description" : "right side wall with 16,17,18,19",
+    "Side" : "4"
+  }
+  ]
+}

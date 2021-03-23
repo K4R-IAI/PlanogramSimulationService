@@ -21,10 +21,7 @@
 					"depth":<xsl:value-of select="$quote"/><xsl:value-of select="floor(BREIT)">  </xsl:value-of><xsl:value-of select="$quote"/>,
 					"height":<xsl:value-of select="$quote"/><xsl:value-of select="floor(HOEHE)"> </xsl:value-of><xsl:value-of select="$quote"/>
 				<xsl:for-each select="E1WBB04"> 
-				
 			</xsl:for-each>
-			
-			
 			<xsl:for-each select="E1WBB07"> 
 				<xsl:for-each select="E1WBB08"> 
 				</xsl:for-each>
@@ -39,13 +36,10 @@
 		<xsl:for-each select="E1WBB10">
 		,"name":<xsl:value-of select="$quote"/><xsl:value-of select="MAKTM"/><xsl:value-of select="$quote"/>
 		</xsl:for-each>
-		
 		<xsl:for-each select="E1WBB12">
 		</xsl:for-each>
-		
 		<xsl:for-each select="E1WBB16"> 
 		</xsl:for-each>
-		
 		<xsl:for-each select="E1WBB18"> 
 		,"LAYGR":<xsl:value-of select="$quote"/><xsl:value-of select="LAYGR"/><xsl:value-of select="$quote"/>,
 		"SORF1":<xsl:value-of select="$quote"/><xsl:value-of select="SORF1"/><xsl:value-of select="$quote"/>,

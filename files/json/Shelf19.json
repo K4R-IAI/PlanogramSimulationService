@@ -1,0 +1,801 @@
+{
+    "products": [
+        {
+            "SORF1": "0000019101",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "25000139",
+                        "4002323232232"
+                    ],
+                    "Length": "40.000",
+                    "ConversionDenominatorForBaseUnit": "10",
+                    "WeightUnit": "KGM",
+                    "Height": "25.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "CMT",
+                    "LogisticalUnit": "PK",
+                    "Width": "15.000",
+                    "Weight": "2.900"
+                },
+                {
+                    "GTIN": [
+                        "2050000001246",
+                        "4008455029115"
+                    ],
+                    "Length": "110.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "GRM",
+                    "Height": "56.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "110.000",
+                    "Weight": "290.000"
+                }
+            ],
+            "Name": "Dr.Beckmann Putz- stein Glaskera. 250g"
+        },
+        {
+            "SORF1": "0000019103",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355101020"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019105",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355055774"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "Denkmit Backofen    Grillreiniger  500ml"
+        },
+        {
+            "SORF1": "0000019108",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355101082"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019110",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4052123132133"
+                    ],
+                    "Length": "30.000",
+                    "ConversionDenominatorForBaseUnit": "10",
+                    "WeightUnit": "GRM",
+                    "Height": "20.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "CMT",
+                    "LogisticalUnit": "CT",
+                    "Width": "10.000",
+                    "Weight": "5420.000"
+                },
+                {
+                    "GTIN": [
+                        "2050000001222",
+                        "2050000001239",
+                        "25000122",
+                        "4052400033566",
+                        "99998888776"
+                    ],
+                    "Length": "58.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "GRM",
+                    "Height": "180.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "58.000",
+                    "Weight": "542.000"
+                }
+            ],
+            "Name": "HEITMANN Reine Citronensäure flüss 500ml"
+        },
+        {
+            "SORF1": "0000019111",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4052400033559"
+                    ],
+                    "Length": "48.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "180.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "90.000",
+                    "Weight": "411.000"
+                }
+            ],
+            "Name": "Heitmann reine      Citronensäure   375g"
+        },
+        {
+            "SORF1": "0000019201",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4002448046486"
+                    ],
+                    "Length": "38.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "139.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "51.000",
+                    "Weight": "124.000"
+                }
+            ],
+            "Name": "Finish Dual- Deo CitrusLimone1St"
+        },
+        {
+            "SORF1": "0000019202",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4002448085492"
+                    ],
+                    "Length": "40.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "190.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "190.000",
+                    "Weight": "390.000"
+                }
+            ],
+            "Name": "Finish Quantum      Lemon           22St"
+        },
+        {
+            "SORF1": "0000019203",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "40161938"
+                    ],
+                    "Length": "32.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "130.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "80.000",
+                    "Weight": "53.000"
+                }
+            ],
+            "Name": "Putzboy Glaskeramik-Schaber OR + 2NF 1St"
+        },
+        {
+            "SORF1": "0000019204",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355100078"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019206",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4002448102854"
+                    ],
+                    "Length": "38.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "139.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "51.000",
+                    "Weight": "124.000"
+                }
+            ],
+            "Name": "Finish Classic Smartpack            40St"
+        },
+        {
+            "SORF1": "0000019207",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4002448103455"
+                    ],
+                    "Length": "38.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "139.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "51.000",
+                    "Weight": "124.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019301",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4002448083375"
+                    ],
+                    "Length": "67.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "162.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "138.000",
+                    "Weight": "1511.000"
+                }
+            ],
+            "Name": "Finish Power Powder                1,5kg"
+        },
+        {
+            "SORF1": "0000019302",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [],
+                    "Length": "38.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "139.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "51.000",
+                    "Weight": "124.000"
+                }
+            ],
+            "Name": "Finish Protector    Dual Protection  1St"
+        },
+        {
+            "SORF1": "0000019303",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4015000962940"
+                    ],
+                    "Length": "63.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "150.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "191.000",
+                    "Weight": "543.000"
+                }
+            ],
+            "Name": "Somat 10 Tabs                     25 St."
+        },
+        {
+            "SORF1": "0000019304",
+            "Facings": "2.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4015000962964"
+                    ],
+                    "Length": "21.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "138.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "82.000",
+                    "Weight": "27.000"
+                }
+            ],
+            "Name": "Somat 1 Tabs                        40St"
+        },
+        {
+            "SORF1": "0000019305",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [],
+                    "Length": "64.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "131.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "128.000",
+                    "Weight": "1209.000"
+                }
+            ],
+            "Name": "Somat Pulver                       1,2kg"
+        },
+        {
+            "SORF1": "0000019401",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "Denkmit Spezialsalz                  2kg"
+        },
+        {
+            "SORF1": "0000019402",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355295224"
+                    ],
+                    "Length": "22.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "72.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "72.000",
+                    "Weight": "82.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019403",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355295248"
+                    ],
+                    "Length": "22.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "72.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "72.000",
+                    "Weight": "82.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019404",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [],
+                    "Length": "22.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "72.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "72.000",
+                    "Weight": "82.000"
+                }
+            ],
+            "Name": "Denkmit Geschirr-   Reiniger-Tabs   65St"
+        },
+        {
+            "SORF1": "0000019406",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355215321"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019501",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4015000961479"
+                    ],
+                    "Length": "21.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "138.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "82.000",
+                    "Weight": "27.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019502",
+            "Facings": "2.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355100054"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019503",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [],
+                    "Length": "44.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "140.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "62.000",
+                    "Weight": "298.000"
+                }
+            ],
+            "Name": "Finish Maschinen-   Pfleger        250ml"
+        },
+        {
+            "SORF1": "0000019504",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [],
+                    "Length": "38.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "139.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "51.000",
+                    "Weight": "124.000"
+                }
+            ],
+            "Name": "Finish Spezialsalz                 1,2kg"
+        },
+        {
+            "SORF1": "0000019505",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [],
+                    "Length": "54.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "288.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "93.000",
+                    "Weight": "824.000"
+                }
+            ],
+            "Name": "Finish Klarspüler                  750ml"
+        },
+        {
+            "SORF1": "0000019506",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355326508"
+                    ],
+                    "Length": "22.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "72.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "72.000",
+                    "Weight": "82.000"
+                }
+            ],
+            "Name": "Denkmit Geschirr    ReinigerPulver 1,8kg"
+        },
+        {
+            "SORF1": "0000019507",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355319968"
+                    ],
+                    "Length": "22.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "72.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "72.000",
+                    "Weight": "82.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019601",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4000125077310"
+                    ],
+                    "Length": "90.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "308.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "90.000",
+                    "Weight": "1390.000"
+                }
+            ],
+            "Name": "Domestos Kraft-     Univers.Reinig.1,25L"
+        },
+        {
+            "SORF1": "0000019602",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4002448107736"
+                    ],
+                    "Length": "38.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "139.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "51.000",
+                    "Weight": "124.000"
+                }
+            ],
+            "Name": "Sagrotan Allzweck-  Reiniger Ozean  1,5l"
+        },
+        {
+            "SORF1": "0000019603",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355250308"
+                    ],
+                    "Length": "22.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "72.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "72.000",
+                    "Weight": "82.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019604",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355101167"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019605",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "8001090168795"
+                    ],
+                    "Length": "65.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "166.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "137.000",
+                    "Weight": "392.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019606",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4010355101143"
+                    ],
+                    "Length": "45.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "95.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "205.000",
+                    "Weight": "51.000"
+                }
+            ],
+            "Name": "#N\/A"
+        },
+        {
+            "SORF1": "0000019607",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "8714789952581"
+                    ],
+                    "Length": "63.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "265.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "90.000",
+                    "Weight": "1035.000"
+                }
+            ],
+            "Name": "Ajax Allzweckrein.  Frühling Ultra 7  1L"
+        },
+        {
+            "SORF1": "0000019608",
+            "Facings": "1.000",
+            "Dimensions": [
+                {
+                    "GTIN": [
+                        "4015000960847"
+                    ],
+                    "Length": "21.000",
+                    "ConversionDenominatorForBaseUnit": "1",
+                    "WeightUnit": "KGM",
+                    "Height": "138.000",
+                    "ConversionCounterForBaseUnit": "1",
+                    "Unit": "MMT",
+                    "LogisticalUnit": "PCE",
+                    "Width": "82.000",
+                    "Weight": "27.000"
+                }
+            ],
+            "Name": "Der General         Bergfrühling   750ml"
+        }
+    ]
+}
