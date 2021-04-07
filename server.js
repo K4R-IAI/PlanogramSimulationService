@@ -38,6 +38,12 @@ app.get("/getproducts",function(req,res,next)
 })
 
 
+app.get("/getshelves",function(req,res,next)
+{
+   sendshelves(req,res);
+})
+
+
 var writefile = function(req,res)
 {
 
@@ -70,7 +76,12 @@ var sendfile= function(req,res)
     let jsonfile = JSON.parse(filee);
     res.send(jsonfile)
 }
-
+var sendshelves= function(req,res)
+{
+    let filee = fs.readFileSync('./files/json/ShelfSystem.json');   
+    let jsonfile = JSON.parse(filee);
+    res.send(jsonfile)
+}
 
 
 
